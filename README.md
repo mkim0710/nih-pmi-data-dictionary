@@ -11,6 +11,13 @@ This particular REDCap project is designed for capturing participant consent for
 
 # How to Use
 
+There are two versions:
+
+* One with dynamic SQL fields (the filename contains `_with_sql`)
+* One without any SQL fields
+
+You typically will need administrative privileges in order to upload the dynamic-SQL version to REDCap.
+
 In your REDCap project, go to the *Project Setup* screen.
 
 Down in the *Design your data collection instruments* box, click the `Data Dictionary` button. 
@@ -18,4 +25,14 @@ Down in the *Design your data collection instruments* box, click the `Data Dicti
 You'll be taken to the *Data Dictionary* screen. Scroll down to the *Upload your Data Dictionary file* box.
 
 ![](https://raw.githubusercontent.com/wcmc-research-informatics/nih-pmi-data-dictionary/master/docs/upload-your-data-dictionary.png)
+
+# Release Notes
+
+February 8, 2018
+
+- Two versions are now available: one with dynamic SQL fields and one without.
+- Added fields for Epic-sourced phone and email.
+- Added a calculated field for current age.
+- Added a Participant Withdrawal form.
+
 
