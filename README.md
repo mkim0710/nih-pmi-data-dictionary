@@ -32,7 +32,7 @@ March 15, 2018
 
 - New Compensation Signature form added with signature field and date
 - Age calculation formula fixed so that age calculates correctly when date is exactly 18 years ago
-- New fields added to Community Recruitment Survery
+- New fields added to Community Recruitment Survey
 - Other minor changes
 
 February 8, 2018
