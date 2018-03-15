@@ -9,7 +9,7 @@ This particular REDCap project is designed for capturing participant consent for
 [Read more about REDCap.](https://www.project-redcap.org/
 )
 
-# How to Use
+## How to Use
 
 There are two versions:
 
@@ -26,7 +26,14 @@ You'll be taken to the *Data Dictionary* screen. Scroll down to the *Upload your
 
 ![](https://raw.githubusercontent.com/wcmc-research-informatics/nih-pmi-data-dictionary/master/docs/upload-your-data-dictionary.png)
 
-# Release Notes
+## Release Notes
+
+March 15, 2018
+
+- New Compensation Signature form added with signature field and date
+- Age calculation formula fixed so that age calculates correctly when date is exactly 18 years ago
+- New fields added to Community Recruitment Survery
+- Other minor changes
 
 February 8, 2018
 
