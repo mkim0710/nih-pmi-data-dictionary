@@ -28,6 +28,12 @@ You'll be taken to the *Data Dictionary* screen. Scroll down to the *Upload your
 
 ## Release Notes
 
+April 13, 2018
+
+- "Today" buttons that were adjacent to DOB fields have been hidden from the UI
+- Compensation Signature Date field has been hidden from the UI 
+- Other minor changes
+
 March 15, 2018
 
 - New Compensation Signature form added with signature field and date
